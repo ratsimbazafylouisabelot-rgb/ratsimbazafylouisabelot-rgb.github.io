@@ -1,0 +1,74 @@
+.photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    object-fit: cover;
+    display: block;
+    margin-left: 0 auto;
+    padding: (-10px);
+}
+.name{
+    text-align: center;
+    background-color: rosybrown;
+    font-size: 20px;
+    padding: 40px;
+    border-radius: 15px;
+    transition: 0.4s;
+    box-shadow: 5px 6px 7px;
+    display: block;
+}    
+.name:hover{
+    transform: translateY(-10px);
+    background: brown;
+}
+.main h1{
+    margin-left: 40px;
+}
+.main{
+    margin-left: 30px;
+    background: blanchedalmond;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-right: 100px;
+    transition: 0.4s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px;
+}
+.main:hover{
+    transform: translateY(-10px);
+    background: brown;
+}
+.mine{
+    margin-left: 30px;
+    background: bisque;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-right: 100px;
+    transition: 0.4s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px;
+}
+.mine:hover{
+    transform: translateY(-10px);
+    background: brown;
+}
+.none{
+    margin-left: 30px;
+    background: blanchedalmond;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-right: 100px;
+    transition: 0.4s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px;
+}
+.none:hover{
+    transform: translateY(-10px);
+    background: brown;
+}
